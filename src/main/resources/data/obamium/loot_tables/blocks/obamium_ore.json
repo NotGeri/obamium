@@ -27,7 +27,6 @@
               ],
               "name": "obamium:obamium_ore"
             },
-
             {
               "type": "minecraft:item",
               "conditions": [
@@ -37,7 +36,6 @@
               ],
               "name": "obamium:obamium_shard"
             },
-
             {
               "type": "minecraft:item",
               "conditions": [
@@ -52,9 +50,7 @@
                     "type": "minecraft:uniform",
                     "min": 3.0,
                     "max": 7.0
-                  },
-
-                  // Currently doing: 2022/03/17 (Thursday) 23:54:28
+                  }
                 }
               ],
               "name": "obamium:obamium_shard"
