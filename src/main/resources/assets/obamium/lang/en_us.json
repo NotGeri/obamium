@@ -1,7 +1,19 @@
 {
   "item.obamium.obamium": "§6Obamium",
+  "item.obamium.obamium_shard": "§6Obamium Shard",
+  "item.obamium.obamium_helmet": "§6Obamium Helmet",
+  "item.obamium.obamium_chestplate": "§6Obamium Chestplate",
+  "item.obamium.obamium_leggings": "§6Obamium Leggings",
+  "item.obamium.obamium_boots": "§6Obamium Boots",
+  "item.obamium.obamium_sword": "§6Obamium Sword",
+  "item.obamium.obamium_pickaxe": "§6Obamium Pickaxe",
+  "item.obamium.obamium_axe": "§6Obamium Axe",
+  "item.obamium.obamium_shovel": "§6Obamium Shovel",
+  "item.obamium.obamium_hoe": "§6Obamium Hoe",
   "itemGroup.obamium.cursed": "§8§oKursed.",
   "block.obamium.obamium_block": "§6Obamium Block",
   "block.obamium.obamium_ore": "§6Obamium Ore",
-  "block.obamium.obamium_shard": "§6Obamium Shard"
+  "block.obamium.obamium_shard": "§6Obamium Shard",
+  "enchantment.obamium.bamba": "Bamba",
+  "enchantment.level.11": "XI"
 }
